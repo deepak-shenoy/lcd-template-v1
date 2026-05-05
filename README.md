@@ -1,6 +1,11 @@
 # LCD Display
 
-### Pin Layout
+## Demo
+
+![demo_small.gif](.artifacts/docs/img/demo_small.gif)
+![board-config3.jpg](.artifacts/docs/img/board-config3.jpg)
+
+## Pin Layout
 ![pin-laout.jpg](.artifacts/docs/img/pin-laout.jpg)
 
 
